@@ -5,7 +5,9 @@
 
 # --- product identity ---------------------------------------------------------
 PRODUCT_NAME="MacTabletMode"
-# GitHub repo that hosts releases/tags (usually the -home repo itself).
+# "1" if the app's source repo is public and hosts releases; "0" if closed source.
+IS_OPEN_SOURCE="0"
+SOURCE_REPOSITORY=""
 RELEASE_REPOSITORY="steventheworker/MacTabletMode-home"
 SITE_URL="https://mactabletmode.netlify.app"
 
