@@ -10,6 +10,9 @@ IS_OPEN_SOURCE="0"
 SOURCE_REPOSITORY=""
 RELEASE_REPOSITORY="steventheworker/MacTabletMode-home"
 SITE_URL="https://mactabletmode.netlify.app"
+HOME_REPOSITORY="steventheworker/MacTabletMode-home"
+REPO_DESCRIPTION="Developer config for tablet-style macOS input."
+REPO_TOPICS="macos tablet touch developer-tools productivity"
 
 # --- source app ---------------------------------------------------------------
 SOURCE_ROOT="${MACTABLETMODE_SOURCE_ROOT:-$HOME/proj/obj-c/MacTabletMode}"
