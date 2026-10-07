@@ -3,5 +3,17 @@
   <channel>
       <title>MacTabletMode</title>
       <language>en</language>
+      <item>
+         <title>Version 1.00.0</title>
+         <pubDate>Wed, 07 Oct 2026 04:00:19 -0700</pubDate>
+         <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+         <sparkle:releaseNotesLink>https://mactabletmode.netlify.app/changelog-sparkle/releases/v1.00.0/</sparkle:releaseNotesLink>
+         <enclosure
+            url="https://github.com/steventheworker/MacTabletMode-home/releases/download/v1.00.0/MacTabletMode-1.00.0.zip"
+            sparkle:version="10000"
+            sparkle:shortVersionString="1.00.0"
+            sparkle:edSignature="ydeu577nvKKyz4YUzF6sJ6MzgEe7AJeG+TJUCjcyRqvjHsFpiXLV+CBOpJPOclr64bMH5fuLYIwJCEhVkXdPBQ==" length="216031"
+            type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
