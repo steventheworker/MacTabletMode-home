@@ -7,7 +7,7 @@
 PRODUCT_NAME="MacTabletMode"
 # GitHub repo that hosts releases/tags (usually the -home repo itself).
 RELEASE_REPOSITORY="steventheworker/MacTabletMode-home"
-SITE_URL="https://mactabletmode-home.netlify.app"
+SITE_URL="https://mactabletmode.netlify.app"
 
 # --- source app ---------------------------------------------------------------
 SOURCE_ROOT="${MACTABLETMODE_SOURCE_ROOT:-$HOME/proj/obj-c/MacTabletMode}"

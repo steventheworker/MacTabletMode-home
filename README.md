@@ -8,4 +8,4 @@ Latest release: **MacTabletMode v0.0.0**
 
 https://github.com/steventheworker/MacTabletMode-home/releases/latest
 
-Visit [https://mactabletmode-home.netlify.app](https://mactabletmode-home.netlify.app) for the changelog and all releases.
+Visit [https://mactabletmode.netlify.app](https://mactabletmode.netlify.app) for the changelog and all releases.
