@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>MacTabletMode 1.00.2 release notes</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main>
+    <p class="back"><a href="/changelog-sparkle">&larr; Changelog</a></p>
+    <h1>MacTabletMode 1.00.2 release notes</h1>
+    <p>Changes since <code>v1.00.1</code>:</p>
+    <ul>
+        <li>KeyboardAvoidanceManager skips FrameBundle windows whose AX parent is another window in the same process</li>
+        <li>Escape on tap, Control on hold” setting.</li>
+        <li>restore any window frames we altered after showing the keyboard, restore dock auto hide and menu bar auto hide settings</li>
+        <li>Reclaim hidden menu-bar space using display geometry</li>
+        <li>Adjust current Space window frames around the soft keyboard</li>
+        <li>key colors</li>
+        <li>Add compact keyboard ribbon aligned flush with the body</li>
+        <li>showmenubar hidemenubar (on keyboard show/hide)</li>
+        <li>modifier remains flagged as pressed if the key combo was not handled natively</li>
+        <li>stop anchoring keyboard above dock (float on top, bottom of screen)</li>
+        <li>Avoid duplicate Dock actions when forwarding Sidecar touches</li>
+        <li>Start keyboard focus listeners without waiting for window discovery</li>
+        <li>Add preferences item to menu bar</li>
+        <li>add ci/cd scripts/make-release.sh</li>
+    </ul>
+  </main>
+</body>
+</html>
