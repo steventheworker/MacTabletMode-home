@@ -5,14 +5,14 @@
       <language>en</language>
       <item>
          <title>Version 1.00.2</title>
-         <pubDate>Mon, 23 Nov 2026 03:33:52 -0800</pubDate>
+         <pubDate>Mon, 23 Nov 2026 03:43:39 -0800</pubDate>
          <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
          <sparkle:releaseNotesLink>https://mactabletmode.netlify.app/changelog-sparkle/releases/v1.00.2/</sparkle:releaseNotesLink>
          <enclosure
             url="https://github.com/steventheworker/MacTabletMode-home/releases/download/v1.00.2/MacTabletMode-1.00.2.zip"
             sparkle:version="10002"
             sparkle:shortVersionString="1.00.2"
-            sparkle:edSignature="OzZqysKJkKWn/Hvc8ipPm9TqJEGdCcHSL9OrLDjcoQzZJ7w7SIwMFzB0/Rpitr2NV7HpN49sYjeIj+gOKPkMAQ==" length="233072"
+            sparkle:edSignature="JZGz4JtgsfkWv8vb54HzVJBcE2xzoKzwGilb9q0ocYJq27VJ5zDztOrcUhHPmXUjlcC8oJCKSMvSV5v6fsBHAw==" length="233070"
             type="application/octet-stream"/>
       </item>
       <item>
